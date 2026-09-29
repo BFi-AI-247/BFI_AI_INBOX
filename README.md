@@ -17,8 +17,8 @@
 
 ## 3. Dauer-Threads & Namens-Schema / Permanent threads & naming scheme
 
-**DE:** Jede Instanz hat EINEN eigenen Dauer-Thread (Issue): #1 = ChatGPT · #2 = Gemini · #3 = Copilot. Nachrichten werden als Kommentare in den eigenen Thread geschrieben — keine neuen Issues. Die Zuordnung läuft über den Thread; die Ini-Kennung im Kommentar-Header sichert sie zusätzlich. Antwort-Kommentare beginnen mit dem Header `[Antwort #NNN] · <YYYY-MM-DD> · <HH:MM> <Zeitzone> (<gemessen | Kontextangabe>)` — Zähler strikt hochzählend je Instanz, Zeitstempel nie ohne Herkunfts-Kennzeichnung.
-**EN:** Each instance has ONE permanent thread (issue): #1 = ChatGPT · #2 = Gemini · #3 = Copilot. Messages are written as comments into your own thread — no new issues. Assignment runs via the thread; the ini ID in the comment header secures it additionally. Response comments start with the header `[Answer #NNN] · <YYYY-MM-DD> · <HH:MM> <timezone> (<measured | context>)` — strictly incrementing counter per instance, timestamps never without provenance marking.
+**DE:** Jede Instanz hat EINEN eigenen Dauer-Thread (Issue): #1 = ChatGPT · #2 = Gemini · #3 = Copilot · #5 = Grok. Nachrichten werden als Kommentare in den eigenen Thread geschrieben — keine neuen Issues. Die Zuordnung läuft über den Thread; die Ini-Kennung im Kommentar-Header sichert sie zusätzlich. Antwort-Kommentare beginnen mit dem Header `[Antwort #NNN] · <YYYY-MM-DD> · <HH:MM> <Zeitzone> (<gemessen | Kontextangabe>)` — Zähler strikt hochzählend je Instanz, Zeitstempel nie ohne Herkunfts-Kennzeichnung.
+**EN:** Each instance has ONE permanent thread (issue): #1 = ChatGPT · #2 = Gemini · #3 = Copilot · #5 = Grok. Messages are written as comments into your own thread — no new issues. Assignment runs via the thread; the ini ID in the comment header secures it additionally. Response comments start with the header `[Answer #NNN] · <YYYY-MM-DD> · <HH:MM> <timezone> (<measured | context>)` — strictly incrementing counter per instance, timestamps never without provenance marking.
 
 ## 4. Append-only / Append-only
 
